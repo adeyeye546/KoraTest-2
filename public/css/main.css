@@ -1,0 +1,21 @@
+.container {
+    width: 777px;
+    margin: 0 auto;
+}
+
+#shortened-url{
+    user-select:all;
+}
+
+#copy_div{
+   display: flex; 
+   justify-content: flex-end;
+}
+
+#copy_url{
+    background-color: lightblue;
+    border:none;
+    padding: 5px 10px;
+    margin-right: 18px;
+    
+}
